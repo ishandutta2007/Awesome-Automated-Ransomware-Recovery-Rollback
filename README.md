@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback?style=flat-square&color=green" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Ransomware-Recovery-Rollback/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License" /></a>
@@ -66,7 +66,7 @@ The following enterprise platforms specialize in orchestrated cyber recovery, au
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source systems for self-hosted ransomware detection, immutable file systems, Kubernetes rollback orchestration, deception tripwires, and recovery drills. Sorted by GitHub star count in descending order.
+Curated open-source systems for self-hosted ransomware detection, immutable file systems, Kubernetes rollback orchestration, deception tripwires, and recovery drills. Sorted by GitHub Stars_Count in descending order.
 
 1. **[restic/restic](https://github.com/restic/restic)** [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
    Fast, secure, and cryptographically verified backup program. Supports immutable append-only repositories across cloud object storage (S3, B2, Azure), preventing ransomware actors from modifying or wiping historical snapshots.
@@ -170,7 +170,7 @@ We welcome additions, updates, and corrections from the community!
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-tool-name`).
 3. 📝 Update `README.md` with:
    - Tool Name and hyperlinked repository / website.
-   - Classification: **SaaS** (with pricing, valuation, and trial limits) or **Open-Source** (with star badge).
+   - Classification: **SaaS** (with pricing, valuation, and trial limits) or **Open-Source** (with Stars_Badge).
    - Concise 1–2 sentence summary explaining its ransomware recovery, rollback, or clean room capability.
 4. 🚀 Push to your branch and submit a **Pull Request**.
 
